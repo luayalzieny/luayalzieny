@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on NODE.JS-Powered E-commerce API
-- 🌱 I’m currently learning C#/.NET & Design Patterns
+- 🌱 I’m currently learning C# & ASP.NET
 - 💬 Ask me about anything related to NODE.JS/JS
 - 📫 How to reach me: luayalzieny@gmail.com
 
